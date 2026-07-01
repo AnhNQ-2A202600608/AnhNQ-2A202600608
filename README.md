@@ -1,7 +1,7 @@
 # Hello, World! I'm Nguyen Quang Anh
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241764654-e0c1f2e9-4e08-4d56-a18a-9214d02347de.gif" width="100%" alt="Cyberpunk Anime Coding Workspace Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8e329a832b4c.gif" width="100%" alt="Cyberpunk Anime Coding Workspace Banner" />
 </p>
 
 <p align="center">
