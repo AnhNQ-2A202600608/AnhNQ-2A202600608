@@ -26,65 +26,23 @@
 
 ### 🛠️ Tech Stack & Toolkit
 
-#### 🚀 Currently Learning
-<p align="left">
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gitgraph/2C3E50" alt="LangGraph" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/microsoftexchange/00F2FE" alt="MCP" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/simpleanalytics/000000" alt="LlamaIndex" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/blueprint/0052CC" alt="ChromaDB" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/pinecone/1A1A1A" alt="Pinecone" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-</p>
+#### 🚀 Currently Learning & Exploring
+* 🤖 **AI Agent Orchestration:** LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex
+* 🔌 **Protocols & Architectures:** Model Context Protocol (MCP)
+* 💾 **Vector Databases:** ChromaDB, Pinecone, FAISS, PostgreSQL (pgvector)
 
-#### 🔧 Tools I Use
+#### 🧠 Machine Learning & Deep Learning
+* 📈 **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Keras, OpenCV
+* 📊 **Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+
+#### 💻 Programming Languages & Developer Tools
+* 📝 **Languages:** Python, C, C++, Java, SQL
+* ⚙️ **MLOps & Infrastructure:** Git, GitHub, Docker, Linux, VS Code, Google Colab, Jupyter Notebook
+
+#### 🔧 Visual Toolkit
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 12px;" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 12px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,postgres,mongodb,docker,git,linux,vscode,pytorch,tensorflow" alt="My Toolkit" />
   </a>
 </p>
 
