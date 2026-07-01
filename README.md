@@ -162,10 +162,7 @@ At the moment, I am learning by building small but practical AI projects with **
 
 ## GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnhNQ-2A202600608&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNQ-2A202600608&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
