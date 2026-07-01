@@ -32,11 +32,14 @@
 * 💾 **Vector Databases:** ChromaDB, Pinecone, FAISS, PostgreSQL (pgvector)
 
 <p align="left">
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Hugging Face" width="40" height="40" style="margin-right: 15px;" />
+  </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangChain" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/pinecone/1A1A1A" alt="Pinecone" width="40" height="40" style="margin-right: 15px;" />
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" style="margin-right: 15px;" />
   </a>
 </p>
 
