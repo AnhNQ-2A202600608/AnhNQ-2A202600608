@@ -95,7 +95,7 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
 <table align="center">
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">🤖 AI & LLM Frameworks</h3>
+      <h3 align="center">AI & LLM Frameworks</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00F2FE" />
@@ -110,7 +110,7 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
       </p>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">💾 Databases & Vector Stores</h3>
+      <h3 align="center">Databases & Vector Stores</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -121,7 +121,7 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
       </p>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">⚙️ DevOps & Tools</h3>
+      <h3 align="center">DevOps & Tools</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -134,7 +134,7 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
   </tr>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">📊 Data Science & Analytics</h3>
+      <h3 align="center">Data Science & Analytics</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -144,7 +144,7 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
       </p>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">💻 Programming Languages</h3>
+      <h3 align="center">Programming Languages</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -155,7 +155,7 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
       </p>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">☁️ Cloud & Deployment</h3>
+      <h3 align="center">Cloud & Deployment</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
         <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
