@@ -6,9 +6,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Multi-Agent+Systems;Machine+Learning+Explorer;PTIT+Student;Building+Responsible+AI" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=0088CC&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Multi-Agent+Systems;Machine+Learning+Explorer;PTIT+Student;Building+Responsible+AI" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Multi-Agent+Systems;Machine+Learning+Explorer;PTIT+Student;Building+Responsible+AI" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Engineer;AI+Agent+Developer;NLP+%26+Computer+Vision;Multi-Agent+Systems;PTIT+Student" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=0088CC&center=true&vCenter=true&width=650&lines=AI+Engineer;AI+Agent+Developer;NLP+%26+Computer+Vision;Multi-Agent+Systems;PTIT+Student" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Engineer;AI+Agent+Developer;NLP+%26+Computer+Vision;Multi-Agent+Systems;PTIT+Student" alt="Typing SVG" />
   </picture>
 </p>
 
