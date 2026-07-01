@@ -177,31 +177,24 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
 
 ## Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>Multi-Agent MCP System</h3>
-      <p><em>Exploring cooperative agent communication via Model Context Protocol.</em></p>
-      <hr />
-      <p>Tech: Python, LangGraph, MCP SDK, SQLite, Docker</p>
-      <p>Key Focus: Filesystem coordination, database queries, tool utilization</p>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>HITL Responsible AI Agent</h3>
-      <p><em>Practicing human-in-the-loop validation and guardrails.</em></p>
-      <hr />
-      <p>Tech: Python, LangChain, NeMo Guardrails, PostgreSQL</p>
-      <p>Key Focus: PII filtering, safety checks, confirmation flows</p>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <h3>RAG Optimization Sandbox</h3>
-      <p><em>Currently building parent-document chunking & reranking.</em></p>
-      <hr />
-      <p>Tech: PyTorch, FAISS, LlamaIndex, Python, Hugging Face</p>
-      <p>Key Focus: Hybrid search, query rewriting, hallucination reduction</p>
-    </td>
-  </tr>
-</table>
+### Multi-Agent MCP System
+* **Description:** Exploring cooperative agent communication via Model Context Protocol.
+* **Tech Stack:** `Python` • `LangGraph` • `MCP SDK` • `SQLite` • `Docker`
+* **Key Focus:** Filesystem coordination, database queries, tool utilization
+
+---
+
+### HITL Responsible AI Agent
+* **Description:** Practicing human-in-the-loop validation and guardrails.
+* **Tech Stack:** `Python` • `LangChain` • `NeMo Guardrails` • `PostgreSQL`
+* **Key Focus:** PII filtering, safety checks, confirmation flows
+
+---
+
+### RAG Optimization Sandbox
+* **Description:** Currently building parent-document chunking & reranking.
+* **Tech Stack:** `PyTorch` • `FAISS` • `LlamaIndex` • `Python` • `Hugging Face`
+* **Key Focus:** Hybrid search, query rewriting, hallucination reduction
 
 <br />
 
