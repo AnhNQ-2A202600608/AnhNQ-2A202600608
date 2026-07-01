@@ -52,7 +52,9 @@ I am an aspiring **AI Engineer** specializing in **Agentic AI, Multi-Agent Syste
     <td valign="top" width="50%">
       <h4>💻 Languages & Compute</h4>
       <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+      <a href="https://en.wikipedia.org/wiki/C"><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /></a>
       <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
+      <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
       <a href="https://www.sql.org/"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /></a>
       <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" /></a>
     </td>
