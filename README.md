@@ -93,15 +93,15 @@
 ### 📁 Featured Projects
 
 * **🤖 Multi-Agent MCP Collaboration System**
-  * Developed a system of cooperative agents communicating via the **Model Context Protocol (MCP)**, allowing agents to execute complex filesystem operations, database queries, and tool utilization in a structured sandboxed environment.
+  * Exploring cooperative agent communication via the **Model Context Protocol (MCP)**, allowing agents to coordinate filesystem tasks, run local database queries, and manage simple tool utilization.
   * *Tech stack: Python, MCP SDK, LangGraph, SQLite, Docker.*
 
 * **🛡️ HITL-Enabled Guardrails & Responsible AI Agent**
-  * Built an AI agent integrating human-in-the-loop (HITL) approval workflows and policy-based guardrails (evaluating toxicity, scanning PII, and checking output format) before performing high-risk actions.
+  * Practicing responsible AI design by building agents with integrated human-in-the-loop (HITL) confirmation flows and validation guardrails (PII filtering, safety checks).
   * *Tech stack: Python, LangChain, NeMo Guardrails, PostgreSQL.*
 
-* **⚡ High-Performance RAG Pipeline**
-  * Developed a RAG pipeline utilizing hybrid dense-sparse retrieval, parent-document chunking, and Hugging Face rerankers, aiming to improve output factual consistency and reduce hallucinations in lecture summarizations.
+* **⚡ RAG Optimization Sandbox**
+  * Currently building a RAG system using parent-document chunking and Hugging Face rerankers, with a focus on improving factuality and reducing hallucinations in text summaries.
   * *Tech stack: PyTorch, FAISS, LlamaIndex, Python, Hugging Face.*
 
 ---
