@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I am an aspiring AI Engineer currently exploring Agentic AI, Multi-Agent Systems, and Large Language Model (LLM) applications. As an Information Technology student at PTIT, I focus on learning by building practical AI projects and improving the reliability of autonomous systems.
+  I am an aspiring AI Engineer currently exploring Agentic AI, Multi-Agent Systems, NLP, and Computer Vision (CV) applications. As an Information Technology student at PTIT, I focus on learning by building practical AI projects and improving the reliability of autonomous systems.
 </p>
 
 <br />
@@ -78,8 +78,8 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
       <p>End-to-end ML pipelines with PyTorch, TensorFlow, and production-ready deployment.</p>
     </td>
     <td align="center">
-      <h3>Infrastructure</h3>
-      <p>Containerization with Docker, CI/CD pipelines, and cloud-native AI deployment.</p>
+      <h3>NLP & Computer Vision</h3>
+      <p>Applying transformer models for text processing and OpenCV for image workflows.</p>
     </td>
   </tr>
 </table>
