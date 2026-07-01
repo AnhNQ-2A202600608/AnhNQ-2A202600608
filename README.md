@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/quanganhptit">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/AnhNQ-2A20260608">
+  <a href="https://github.com/AnhNQ-2A202600608">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -163,12 +163,12 @@ At the moment, I am learning by building small but practical AI projects with **
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnhNQ-2A20260608&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNQ-2A20260608&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnhNQ-2A202600608&show_icons=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhNQ-2A202600608&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F2FE&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A20260608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
 </p>
 
 ---
@@ -196,5 +196,5 @@ I am always open to learning, collaboration, and building practical AI projects.
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AnhNQ-2A20260608/count.svg" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/AnhNQ-2A202600608/count.svg" alt="Visitor Counter" />
 </p>
