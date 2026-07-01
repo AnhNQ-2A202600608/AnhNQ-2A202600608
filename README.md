@@ -18,7 +18,9 @@
 
 <div align="center">
 
-[Email](mailto:quanganhptit030@gmail.com) | [LinkedIn](https://www.linkedin.com/in/quanganhptit) | [GitHub](https://github.com/AnhNQ-2A202600608)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quanganhptit030@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quanganhptit)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnhNQ-2A202600608)
 
 </div>
 
@@ -92,49 +94,46 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
 
 <table align="center">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <h3 align="center">AI & LLM Frameworks</h3>
       <p align="center">
-        LangChain • LangGraph • CrewAI<br/>
-        AutoGen • LlamaIndex • Hugging Face<br/>
-        PyTorch • TensorFlow • Keras • OpenCV
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00F2FE" />
+        <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
+        <img src="https://img.shields.io/badge/LlamaIndex-5A67D8?style=for-the-badge&logo=llama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Databases & Vector Stores</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">Machine Learning & Data Science</h3>
       <p align="center">
-        PostgreSQL (pgvector) • MongoDB<br/>
-        SQLite • Pinecone • ChromaDB<br/>
-        FAISS
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">DevOps & Tools</h3>
-      <p align="center">
-        Docker • Git • Linux<br/>
-        VS Code • Jupyter Notebook • Google Colab
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Data Science & Analytics</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">Backend & Databases</h3>
       <p align="center">
-        NumPy • Pandas • Scikit-Learn<br/>
-        Matplotlib • Seaborn
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white" />
       </p>
     </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Programming Languages</h3>
+    <td valign="top" width="50%">
+      <h3 align="center">DevOps & Tools</h3>
       <p align="center">
-        Python • C • C++ • Java • SQL
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Cloud & Deployment</h3>
-      <p align="center">
-        AWS • GCP • Azure<br/>
-        Heroku • Vercel
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
       </p>
     </td>
   </tr>
