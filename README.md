@@ -77,40 +77,71 @@ I'm a passionate **AI Engineer** and **Information Technology student** at **PTI
   <tr>
     <td valign="top" width="33%">
       <h3 align="center">🤖 AI & LLM Frameworks</h3>
-      <p align="center">
-        LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, PyTorch, TensorFlow, Hugging Face, Keras, OpenCV
+      <p align="left">
+        🦜 LangChain<br/>
+        🕸️ LangGraph<br/>
+        👥 CrewAI<br/>
+        🤖 AutoGen<br/>
+        🗂️ LlamaIndex<br/>
+        🔥 PyTorch<br/>
+        🍊 TensorFlow<br/>
+        🤗 Hugging Face<br/>
+        🧠 Keras<br/>
+        👁️ OpenCV
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">💾 Databases & Vector Stores</h3>
-      <p align="center">
-        PostgreSQL (pgvector), MongoDB, SQLite, Pinecone, ChromaDB, FAISS
+      <p align="left">
+        🐘 PostgreSQL (pgvector)<br/>
+        🍃 MongoDB<br/>
+        🪶 SQLite<br/>
+        🌲 Pinecone<br/>
+        🎨 ChromaDB<br/>
+        🔍 FAISS
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">⚙️ DevOps & Tools</h3>
-      <p align="center">
-        Docker, Git, Linux, VS Code, Jupyter Notebook, Google Colab
+      <p align="left">
+        🐳 Docker<br/>
+        🐙 Git<br/>
+        🐧 Linux<br/>
+        📝 VS Code<br/>
+        📓 Jupyter Notebook<br/>
+        ☁️ Google Colab
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="33%">
       <h3 align="center">📊 Data Science & Analytics</h3>
-      <p align="center">
-        NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+      <p align="left">
+        🔢 NumPy<br/>
+        🐼 Pandas<br/>
+        ⚙️ Scikit-Learn<br/>
+        📈 Matplotlib<br/>
+        🌊 Seaborn
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">💻 Programming Languages</h3>
-      <p align="center">
-        Python, C, C++, Java, SQL
+      <p align="left">
+        🐍 Python<br/>
+        ⌨️ C<br/>
+        ➕ C++<br/>
+        ☕ Java<br/>
+        🔍 SQL
       </p>
     </td>
     <td valign="top" width="33%">
       <h3 align="center">☁️ Cloud & Deployment</h3>
-      <p align="center">
-        AWS, GCP, Azure, Heroku, Vercel
+      <p align="left">
+        ☁️ AWS<br/>
+        ☁️ GCP<br/>
+        ☁️ Azure<br/>
+        💜 Heroku<br/>
+        ▲ Vercel
       </p>
     </td>
   </tr>
