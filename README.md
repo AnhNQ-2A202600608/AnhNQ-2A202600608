@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Multi-Agent+Systems;Machine+Learning+Explorer;PTIT+Student;Building+Responsible+AI" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=0088CC&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Multi-Agent+Systems;Machine+Learning+Explorer;PTIT+Student;Building+Responsible+AI" />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=900&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Agent+Developer;Multi-Agent+Systems;Machine+Learning+Explorer;PTIT+Student;Building+Responsible+AI" alt="Typing SVG" />
-  </a>
+  </picture>
 </p>
 
 <p align="center">
@@ -248,7 +250,11 @@ I'm a passionate AI Engineer and Information Technology student at PTIT, focused
 ## GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-light&bg_color=FFFFFF&hide_border=true&area=true&color=0088CC&line=0088CC&point=005599" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnhNQ-2A202600608&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00F2FE&line=00F2FE&point=FFFFFF" alt="Activity Graph" />
+  </picture>
 </p>
 
 <br />
