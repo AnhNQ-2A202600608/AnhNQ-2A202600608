@@ -38,10 +38,12 @@
 
 I'm a passionate AI Engineer and Information Technology student at PTIT, focused on building intelligent systems that work. My current playground is Agentic AI—where I'm exploring multi-agent systems, refining RAG pipelines, and learning to ensure AI behaves responsibly.
 
-* **Learning & Building:** Collaborative Multi-Agent Systems with LangGraph and CrewAI.
-* **Data Access:** Designing custom Model Context Protocol (MCP) servers for secure tool use.
-* **AI Safety:** Practicing Human-in-the-Loop (HITL) guardrails for safe AI deployment.
-* **Core Research:** Deep-diving into LLM architectures and retrieval optimization.
+* **Learning & Building:** Collaborative Multi-Agent systems using **LangGraph** and **CrewAI** to orchestrate specialized tool-calling agents.
+* **Natural Language Processing (NLP):** Deepening my knowledge in transformer architectures, LLM fine-tuning, tokenization, embeddings, and semantic search.
+* **Computer Vision (CV):** Exploring basic image workflows, feature extraction, and neural network pipelines (using PyTorch and OpenCV).
+* **Data Access & Protocols:** Designing custom **Model Context Protocol (MCP)** servers to bridge the gap between LLMs and local development environments.
+* **AI Safety & Guardrails:** Implementing Human-in-the-Loop (HITL) confirmations and validation rules to ensure safe agent behavior.
+* **Academic Foundation:** IT student at PTIT, focused on combining solid theoretical CS foundations with practical engineering projects.
 
 <br />
 
